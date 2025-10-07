@@ -1,4 +1,4 @@
-import './chatPage.css'
+import './homepage.css'
 import React from 'react'
 
 const Homepage = () => {
